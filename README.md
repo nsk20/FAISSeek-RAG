@@ -49,7 +49,8 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) m
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-### **LICENSE**
+#### **LICENSE**
+
 MIT License
 
 Copyright (c) 2025 Shyam Kumar
