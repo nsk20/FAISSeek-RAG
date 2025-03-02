@@ -34,17 +34,17 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) m
 
 ## Project Structure
 
-**main.py:** Main script containing the RAG model implementation.
-**requirements.txt:** List of Python dependencies.
-**README.md:** Project documentation.
+- **main.py:** Main script containing the RAG model implementation.
+- **requirements.txt:** List of Python dependencies.
+- **README.md:** Project documentation.
 
 
 ## Dependencies
-**transformers:** For tokenization and model loading.
-**torch:** For tensor operations.
-**faiss:** For vector similarity search.
-**requests:** For making HTTP requests to the ngrok API.
-**google.colab:** For file uploads in Google Colab.
+- **transformers:** For tokenization and model loading.
+- **torch:** For tensor operations.
+- **faiss:** For vector similarity search.
+- **requests:** For making HTTP requests to the ngrok API.
+- **google.colab:** For file uploads in Google Colab.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
