@@ -24,6 +24,7 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) m
 	iii. After Running the Ngrok cmd in the Terminal use will see an API endpoint ending with: ".ngrok-free.app/"
 	iv. Keep Both Ollama and Ngrok running untill the end of the project. 
 
+
 ## Usage
 
 1. You can use the provided python Notebook in the GIT and upload it to Google Colab or other similar software.
@@ -31,24 +32,24 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) m
 3. After running the file it will ask to upload a .txt file in the Console. Upload somefile(Start trying with small files and then gradually increase the size of the file depending the GPU, CPU & RAM of your PC).
 4. Enter your questions in the console. The model will retrieve relevant context from the documents and generate an answer using the Deepseek-r1 model.
 
-##Project Structure
+## Project Structure
 
 **main.py:** Main script containing the RAG model implementation.
 **requirements.txt:** List of Python dependencies.
 **README.md:** Project documentation.
 
 
-##Dependencies
+## Dependencies
 **transformers:** For tokenization and model loading.
 **torch:** For tensor operations.
 **faiss:** For vector similarity search.
 **requests:** For making HTTP requests to the ngrok API.
 **google.colab:** For file uploads in Google Colab.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-#### **LICENSE**
+### **LICENSE**
 MIT License
 
 Copyright (c) 2025 Shyam Kumar
