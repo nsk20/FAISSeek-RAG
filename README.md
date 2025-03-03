@@ -1,4 +1,5 @@
-# RAG Model with Deepseek-r1 and FAISS
+# FAISSeek-RAG
+## RAG Model with Deepseek-r1 and FAISS
 
 This project demonstrates how to create a Retrieval-Augmented Generation (RAG) model using the Deepseek-r1 language model and FAISS for vector similarity search. The model is exposed via a public API using ngrok.
 
