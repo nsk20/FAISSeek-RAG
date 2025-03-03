@@ -10,7 +10,7 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) m
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [Security Note](#security note)
+- [Security Note](#security_note)
 
 ## Installation
 
